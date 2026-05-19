@@ -1,0 +1,18 @@
+{
+	version: 1
+	uuid: "c3adb6b8116f41eea2ee4c8f66691917"
+	name: "SakuraYukina#c3adb6b8"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	repeatable: { }
+	completion_count: { }
+	claimed_rewards: { }
+	player_data: {
+		c3adb6b8116f41eea2ee4c8f66691917: {
+			can_edit: 1b
+		}
+	}
+}

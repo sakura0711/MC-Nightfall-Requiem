@@ -1,0 +1,17 @@
+{
+	id: "c3adb6b8-116f-41ee-a2ee-4c8f66691917"
+	type: "player"
+	player_name: "SakuraYukina"
+	ranks: {
+		c3adb6b8-116f-41ee-a2ee-4c8f66691917: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "SakuraYukina"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF6659"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

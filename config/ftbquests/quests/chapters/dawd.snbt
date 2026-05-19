@@ -1,0 +1,20 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "dawd"
+	group: ""
+	id: "3BD5E1C55CB0E7BF"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		id: "5E6CDC4D9AA94E33"
+		tasks: [{
+			id: "72D56541E8263D06"
+			item: "minecraft:spruce_wood"
+			type: "item"
+		}]
+		x: -3.0d
+		y: -5.5d
+	}]
+	title: "dawd"
+}

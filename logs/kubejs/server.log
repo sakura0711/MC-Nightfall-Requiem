@@ -1,0 +1,21 @@
+[00:55:12] [INIT] KubeJS 2001.6.5-build.26; MC 2001 forge
+[00:55:12] [INIT] Loaded plugins:
+[00:55:12] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[00:55:12] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[00:55:12] [INIT] - net.zhaiji.kubejscurios.kubejs.KubeJSCuriosPlugin
+[00:55:12] [INIT] - zank.mods.eventjs.EventJSKubeJSPlugin
+[00:55:12] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[00:55:12] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[00:55:12] [INIT] - com.probejs.ProbeJSPlugin
+[00:55:12] [INFO] example.js#5: Hello, World! (Loaded server scripts)
+[00:55:12] [INFO] example.js#18: test
+[00:55:12] [INFO] Loaded script server_scripts:example.js in 0.011 s
+[00:55:12] [INFO] Loaded script server_scripts:test.js in 0.0 s
+[00:55:12] [INFO] Loaded 2/2 KubeJS server scripts in 0.022 s with 0 errors and 0 warnings
+[00:55:12] [INFO] Scripts loaded
+[00:55:12] [INFO] Initializing recipe event...
+[00:55:14] [INFO] Processing recipes...
+[00:55:14] [INFO] Found 2721 recipes in 79.68 ms
+[00:55:14] [INFO] Posted recipe events in 27.94 ms
+[00:55:14] [INFO] Added 0 recipes, removed 4 recipes, modified 0 recipes, with 0 failed recipes in 26.57 ms
+[00:55:15] [INFO] Server resource reload complete!

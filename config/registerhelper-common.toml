@@ -1,0 +1,27 @@
+
+[nbt_matching]
+	#配方创建器中NBT复选框的默认状态
+	#当启用时，创建配方时输入物品默认包含NBT
+	#当禁用时，创建配方时输入物品默认不包含NBT
+	#
+	#Default state of NBT checkbox in recipe creator
+	#When enabled, input items will include NBT by default
+	#When disabled, input items will not include NBT by default
+	defaultIncludeNBT = true
+	#启用配方创建器中每个槽位独立的NBT匹配控制
+	#启用后：槽位底部显示颜色条，中键点击可单独开关每个槽位的NBT匹配
+	#禁用后：所有槽位统一由 defaultIncludeNBT 决定，不显示颜色条
+	#
+	#Enable per-slot NBT matching control in recipe creator
+	#When enabled: color bar shown at slot bottom, middle-click to toggle per slot
+	#When disabled: all slots follow defaultIncludeNBT, no color bar shown
+	enablePerSlotNBT = true
+
+[debug]
+	#启用调试日志输出
+	#当启用时，会输出NBT匹配的详细信息
+	#
+	#Enable debug logging
+	#When enabled, detailed NBT matching information will be logged
+	enableDebugLogging = false
+
