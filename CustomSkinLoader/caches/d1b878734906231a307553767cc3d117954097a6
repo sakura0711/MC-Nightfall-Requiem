@@ -1,0 +1,9 @@
+{
+  "id" : "c3adb6b8116f41eea2ee4c8f66691917",
+  "name" : "SakuraYukina",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3OTI0Mzk1MjYyNywKICAicHJvZmlsZUlkIiA6ICJjM2FkYjZiODExNmY0MWVlYTJlZTRjOGY2NjY5MTkxNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJTYWt1cmFZdWtpbmEiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2Y4MGJlZWQyMjhjNmJlMDI3NGFiNjczNmY3MTBjMmEyYzZiMzk0NGJmOGI4OWEyMWMzN2I3ZTIzMjVhOTZjIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

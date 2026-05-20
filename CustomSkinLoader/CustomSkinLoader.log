@@ -1,0 +1,112 @@
+[2026-05-20 10:25:52] [Render thread/INFO] [CustomSkinLoader Core]: CustomSkinLoader 14.28
+[2026-05-20 10:25:52] [Render thread/INFO] [CustomSkinLoader Core]: DataDir: C:\Users\user\curseforge\minecraft\Instances\test\CustomSkinLoader
+[2026-05-20 10:25:52] [Render thread/INFO] [CustomSkinLoader Core]: Operating System: Windows 10 (amd64) version 10.0
+[2026-05-20 10:25:52] [Render thread/INFO] [CustomSkinLoader Core]: Java Version: 17.0.8, Eclipse Adoptium
+[2026-05-20 10:25:52] [Render thread/INFO] [CustomSkinLoader Core]: Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Eclipse Adoptium
+[2026-05-20 10:25:52] [Render thread/INFO] [CustomSkinLoader Core]: Minecraft: 1.20.1
+[2026-05-20 10:25:52] [Render thread/INFO] [CustomSkinLoader Core]: Config File: C:\Users\user\curseforge\minecraft\Instances\test\CustomSkinLoader\CustomSkinLoader.json
+[2026-05-20 10:25:52] [Render thread/INFO] [CustomSkinLoader Core]: Config file not found, use default instead.
+[2026-05-20 10:25:52] [Render thread/INFO] [CustomSkinLoader Core]: Successfully create config.
+[2026-05-20 10:25:52] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: GameProfile
+[2026-05-20 10:25:52] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: MojangAPI
+[2026-05-20 10:25:52] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: Legacy
+[2026-05-20 10:25:52] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: CustomSkinAPI
+[2026-05-20 10:25:52] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: CustomSKinAPIPlus
+[2026-05-20 10:25:52] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: UniSkinAPI
+[2026-05-20 10:25:52] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: ElyByAPI
+[2026-05-20 10:25:52] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: GlitchlessAPI
+[2026-05-20 10:25:52] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: MinecraftCapesAPI
+[2026-05-20 10:25:52] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: WynntilsAPI
+[2026-05-20 10:25:52] [Render thread/INFO] [CustomSkinLoader Core]: Successfully update config.
+[2026-05-20 10:25:52] [Render thread/INFO] [CustomSkinLoader Core]: version : 14.28
+[2026-05-20 10:25:52] [Render thread/INFO] [CustomSkinLoader Core]: buildNumber : 38
+[2026-05-20 10:25:52] [Render thread/INFO] [CustomSkinLoader Core]: loadlist : [{ "name": "GameProfile", "type": "GameProfile" }, { "name": "Mojang", "type": "MojangAPI", "apiRoot": "https://api.mojang.com/", "sessionRoot": "https://sessionserver.mojang.com/" }, { "name": "LittleSkin", "type": "CustomSkinAPI", "root": "https://littleskin.cn/csl/" }, { "name": "BlessingSkin", "type": "CustomSkinAPI", "root": "https://skin.prinzeugen.net/" }, { "name": "ElyBy", "type": "ElyByAPI", "root": "http://skinsystem.ely.by/textures/" }, { "name": "SkinMe", "type": "UniSkinAPI", "root": "http://www.skinme.cc/uniskin/" }, { "name": "TLauncher", "type": "ElyByAPI", "root": "https://auth.tlauncher.org/skin/profile/texture/login/" }, { "name": "GlitchlessGames", "type": "GlitchlessAPI", "root": "https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=" }, { "name": "LocalSkin", "type": "Legacy", "checkPNG": "false", "skin": "LocalSkin/skins/{USERNAME}.png", "model": "auto", "cape": "LocalSkin/capes/{USERNAME}.png", "elytra": "LocalSkin/elytras/{USERNAME}.png" }, { "name": "MinecraftCapes", "type": "MinecraftCapesAPI", "root": "https://api.minecraftcapes.net/profile/" }, { "name": "OptiFine", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "https://optifine.net/capes/{USERNAME}.png" }, { "name": "Wynntils", "type": "WynntilsAPI", "root": "https://athena.wynntils.com/user/getInfo" }, { "name": "CloakPlus", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "http://161.35.130.99/capes/{USERNAME}.png" }, { "name": "Cosmetica", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "https://api.cosmetica.cc/get/cloak?username={USERNAME}&uuid={STANDARD_UUID}&nothirdparty" }]
+[2026-05-20 10:25:52] [Render thread/INFO] [CustomSkinLoader Core]: enableDynamicSkull : true
+[2026-05-20 10:25:52] [Render thread/INFO] [CustomSkinLoader Core]: enableTransparentSkin : true
+[2026-05-20 10:25:52] [Render thread/INFO] [CustomSkinLoader Core]: forceLoadAllTextures : true
+[2026-05-20 10:25:52] [Render thread/INFO] [CustomSkinLoader Core]: enableCape : true
+[2026-05-20 10:25:52] [Render thread/INFO] [CustomSkinLoader Core]: threadPoolSize : 8
+[2026-05-20 10:25:52] [Render thread/INFO] [CustomSkinLoader Core]: enableLogStdOut : false
+[2026-05-20 10:25:52] [Render thread/INFO] [CustomSkinLoader Core]: cacheExpiry : 30
+[2026-05-20 10:25:52] [Render thread/INFO] [CustomSkinLoader Core]: forceUpdateSkull : false
+[2026-05-20 10:25:52] [Render thread/INFO] [CustomSkinLoader Core]: enableLocalProfileCache : false
+[2026-05-20 10:25:52] [Render thread/INFO] [CustomSkinLoader Core]: enableCacheAutoClean : false
+[2026-05-20 10:25:52] [Render thread/INFO] [CustomSkinLoader Core]: forceDisableCache : false
+[2026-05-20 10:25:52] [SakuraYukina/INFO] [CustomSkinLoader Core]: Loading SakuraYukina's profile.
+[2026-05-20 10:25:52] [SakuraYukina/INFO] [CustomSkinLoader Core]: 1/14 Try to load profile from 'GameProfile'.
+[2026-05-20 10:25:52] [SakuraYukina/INFO] [CustomSkinLoader Core]: Profile not found.
+[2026-05-20 10:25:52] [SakuraYukina/INFO] [CustomSkinLoader Core]: 2/14 Try to load profile from 'Mojang'.
+[2026-05-20 10:25:52] [SakuraYukina/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2026-05-20 10:25:52] [SakuraYukina/INFO] [CustomSkinLoader Core]: Payload: ["SakuraYukina"]
+[2026-05-20 10:25:52] [SakuraYukina/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 78)
+[2026-05-20 10:25:52] [SakuraYukina/DEBUG] [CustomSkinLoader Core]: Content: [ {
+  "id" : "c3adb6b8116f41eea2ee4c8f66691917",
+  "name" : "SakuraYukina"
+} ]
+[2026-05-20 10:25:52] [SakuraYukina/DEBUG] [CustomSkinLoader Core]: Try to request 'https://sessionserver.mojang.com/session/minecraft/profile/c3adb6b8116f41eea2ee4c8f66691917'.
+[2026-05-20 10:25:52] [SakuraYukina/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 618)
+[2026-05-20 10:25:52] [SakuraYukina/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 618 , Path: 'C:\Users\user\curseforge\minecraft\Instances\test\CustomSkinLoader\caches\d1b878734906231a307553767cc3d117954097a6' , Expire: 1779243972)
+[2026-05-20 10:25:52] [SakuraYukina/DEBUG] [CustomSkinLoader Core]: Content: {
+  "id" : "c3adb6b8116f41eea2ee4c8f66691917",
+  "name" : "SakuraYukina",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3OTI0Mzk1MjYyNywKICAicHJvZmlsZUlkIiA6ICJjM2FkYjZiODExNmY0MWVlYTJlZTRjOGY2NjY5MTkxNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJTYWt1cmFZdWtpbmEiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2Y4MGJlZWQyMjhjNmJlMDI3NGFiNjczNmY3MTBjMmEyYzZiMzk0NGJmOGI4OWEyMWMzN2I3ZTIzMjVhOTZjIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}
+[2026-05-20 10:25:53] [SakuraYukina/INFO] [CustomSkinLoader Core]: 3/14 Try to load profile from 'LittleSkin'.
+[2026-05-20 10:25:53] [SakuraYukina/DEBUG] [CustomSkinLoader Core]: Try to request 'https://littleskin.cn/csl/SakuraYukina.json'.
+[2026-05-20 10:25:53] [SakuraYukina/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 2)
+[2026-05-20 10:25:53] [SakuraYukina/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 2 , Path: 'C:\Users\user\curseforge\minecraft\Instances\test\CustomSkinLoader\caches\16885feb217050369de1a250a7c8619797e63dcd' , Expire: 1779244047)
+[2026-05-20 10:25:53] [SakuraYukina/DEBUG] [CustomSkinLoader Core]: Content: {}
+[2026-05-20 10:25:53] [SakuraYukina/INFO] [CustomSkinLoader Core]: Both skin and cape not found.
+[2026-05-20 10:25:53] [SakuraYukina/INFO] [CustomSkinLoader Core]: 4/14 Try to load profile from 'BlessingSkin'.
+[2026-05-20 10:25:53] [SakuraYukina/DEBUG] [CustomSkinLoader Core]: Try to request 'https://skin.prinzeugen.net/SakuraYukina.json'.
+[2026-05-20 10:25:54] [SakuraYukina/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2026-05-20 10:25:54] [SakuraYukina/INFO] [CustomSkinLoader Core]: Profile not found.
+[2026-05-20 10:25:54] [SakuraYukina/INFO] [CustomSkinLoader Core]: 5/14 Try to load profile from 'ElyBy'.
+[2026-05-20 10:25:54] [SakuraYukina/DEBUG] [CustomSkinLoader Core]: Try to request 'http://skinsystem.ely.by/textures/SakuraYukina'.
+[2026-05-20 10:25:54] [SakuraYukina/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 148)
+[2026-05-20 10:25:54] [SakuraYukina/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 148 , Path: 'C:\Users\user\curseforge\minecraft\Instances\test\CustomSkinLoader\caches\686c5663748f7de367239fde94d593c25865f7f4' , Expire: 1779244047)
+[2026-05-20 10:25:54] [SakuraYukina/DEBUG] [CustomSkinLoader Core]: Content: {"SKIN":{"url":"http://textures.minecraft.net/texture/cf80beed228c6be0274ab6736f710c2a2c6b3944bf8b89a21c37b7e2325a96c","metadata":{"model":"slim"}}}
+[2026-05-20 10:25:54] [SakuraYukina/INFO] [CustomSkinLoader Core]: 6/14 Try to load profile from 'SkinMe'.
+[2026-05-20 10:25:54] [SakuraYukina/DEBUG] [CustomSkinLoader Core]: Try to request 'http://www.skinme.cc/uniskin/SakuraYukina.json'.
+[2026-05-20 10:25:54] [SakuraYukina/DEBUG] [CustomSkinLoader Core]: Failed to request http://www.skinme.cc/uniskin/SakuraYukina.json (Exception: java.net.UnknownHostException: www.skinme.cc)
+[2026-05-20 10:25:54] [SakuraYukina/INFO] [CustomSkinLoader Core]: Profile not found.
+[2026-05-20 10:25:54] [SakuraYukina/INFO] [CustomSkinLoader Core]: 7/14 Try to load profile from 'TLauncher'.
+[2026-05-20 10:25:54] [SakuraYukina/DEBUG] [CustomSkinLoader Core]: Try to request 'https://auth.tlauncher.org/skin/profile/texture/login/SakuraYukina'.
+[2026-05-20 10:25:59] [SakuraYukina/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: -1)
+[2026-05-20 10:25:59] [SakuraYukina/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 148 , Path: 'C:\Users\user\curseforge\minecraft\Instances\test\CustomSkinLoader\caches\86c2f5f2116b8859f377a148c2a26d96c77f14f1' , Expire: 1779244051)
+[2026-05-20 10:25:59] [SakuraYukina/DEBUG] [CustomSkinLoader Core]: Content: {"SKIN":{"url":"http://textures.minecraft.net/texture/cf80beed228c6be0274ab6736f710c2a2c6b3944bf8b89a21c37b7e2325a96c","metadata":{"model":"slim"}}}
+[2026-05-20 10:25:59] [SakuraYukina/INFO] [CustomSkinLoader Core]: 8/14 Try to load profile from 'GlitchlessGames'.
+[2026-05-20 10:25:59] [SakuraYukina/DEBUG] [CustomSkinLoader Core]: Try to request 'https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=SakuraYukina'.
+[2026-05-20 10:25:59] [SakuraYukina/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2026-05-20 10:25:59] [SakuraYukina/INFO] [CustomSkinLoader Core]: Profile not found.
+[2026-05-20 10:25:59] [SakuraYukina/INFO] [CustomSkinLoader Core]: 9/14 Try to load profile from 'LocalSkin'.
+[2026-05-20 10:25:59] [SakuraYukina/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2026-05-20 10:25:59] [SakuraYukina/INFO] [CustomSkinLoader Core]: 10/14 Try to load profile from 'MinecraftCapes'.
+[2026-05-20 10:25:59] [SakuraYukina/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.minecraftcapes.net/profile/c3adb6b8116f41eea2ee4c8f66691917'.
+[2026-05-20 10:25:59] [SakuraYukina/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: -1)
+[2026-05-20 10:25:59] [SakuraYukina/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 241 , Path: 'C:\Users\user\curseforge\minecraft\Instances\test\CustomSkinLoader\caches\9489a10aa7fdeb606e171f560fe71586a9e80a00' , Expire: 1779247559)
+[2026-05-20 10:25:59] [SakuraYukina/DEBUG] [CustomSkinLoader Core]: Content: {"animatedCape":false,"capeGlint":false,"upsideDown":false,"animated_cape_url":null,"cape_url":null,"ear_url":null,"textures":{"_IMPORTANT":"We are removing base64 textures, please use the above parameters instead.","cape":null,"ears":null}}
+[2026-05-20 10:25:59] [SakuraYukina/INFO] [CustomSkinLoader Core]: Both skin and cape not found.
+[2026-05-20 10:25:59] [SakuraYukina/INFO] [CustomSkinLoader Core]: 11/14 Try to load profile from 'OptiFine'.
+[2026-05-20 10:25:59] [SakuraYukina/DEBUG] [CustomSkinLoader Core]: Try to request 'https://optifine.net/capes/SakuraYukina.png'.
+[2026-05-20 10:26:00] [SakuraYukina/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2026-05-20 10:26:00] [SakuraYukina/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2026-05-20 10:26:00] [SakuraYukina/INFO] [CustomSkinLoader Core]: 12/14 Try to load profile from 'Wynntils'.
+[2026-05-20 10:26:00] [SakuraYukina/DEBUG] [CustomSkinLoader Core]: Try to request 'https://athena.wynntils.com/user/getInfo'.
+[2026-05-20 10:26:00] [SakuraYukina/INFO] [CustomSkinLoader Core]: Payload: {"uuid":"c3adb6b8-116f-41ee-a2ee-4c8f66691917"}
+[2026-05-20 10:26:01] [SakuraYukina/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 403)
+[2026-05-20 10:26:01] [SakuraYukina/INFO] [CustomSkinLoader Core]: Profile not found.
+[2026-05-20 10:26:01] [SakuraYukina/INFO] [CustomSkinLoader Core]: 13/14 Try to load profile from 'CloakPlus'.
+[2026-05-20 10:26:01] [SakuraYukina/DEBUG] [CustomSkinLoader Core]: Try to request 'http://161.35.130.99/capes/SakuraYukina.png'.
+[2026-05-20 10:26:02] [SakuraYukina/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2026-05-20 10:26:02] [SakuraYukina/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2026-05-20 10:26:02] [SakuraYukina/INFO] [CustomSkinLoader Core]: 14/14 Try to load profile from 'Cosmetica'.
+[2026-05-20 10:26:02] [SakuraYukina/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.cosmetica.cc/get/cloak?username=SakuraYukina&uuid=c3adb6b8-116f-41ee-a2ee-4c8f66691917&nothirdparty'.
+[2026-05-20 10:26:02] [SakuraYukina/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 403)
+[2026-05-20 10:26:02] [SakuraYukina/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2026-05-20 10:26:02] [SakuraYukina/INFO] [CustomSkinLoader Core]: SakuraYukina's profile loaded.
+[2026-05-20 10:26:02] [SakuraYukina/INFO] [CustomSkinLoader Core]: (SkinUrl: http://textures.minecraft.net/texture/cf80beed228c6be0274ab6736f710c2a2c6b3944bf8b89a21c37b7e2325a96c , Model: slim , CapeUrl: null  , Expiry: 1779243992)
