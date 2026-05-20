@@ -5,9 +5,9 @@
 minecraftinstance.json
 
 # User-specific preferences and account caches
-options.txt
-optionsof.txt
-imgui.ini
+# options.txt 設定資訊
+# optionsof.txt
+# imgui.ini
 rhino.local.properties
 usercache.json
 usernamecache.json
