@@ -1,0 +1,54 @@
+# ===== Minecraft Modpack: ignore local/runtime artifacts =====
+
+# Launcher / local instance metadata
+.curseclient
+minecraftinstance.json
+
+# User-specific preferences and account caches
+options.txt
+optionsof.txt
+imgui.ini
+rhino.local.properties
+usercache.json
+usernamecache.json
+
+# Runtime logs and crash dumps
+logs/
+crash-reports/
+debug.log
+latest.log
+hs_err_pid*
+
+# Local gameplay data (do not sync)
+saves/
+schematics/
+screenshots/
+xaero/
+XaeroWaypoints_BACKUP*/
+journeymap/
+
+# Local download/cache folders
+downloads/
+local/
+modernfix/
+cache/
+tmp/
+temp/
+
+# CustomSkinLoader local caches
+CustomSkinLoader/caches/
+CustomSkinLoader/ProfileCache/
+
+# IDE / OS junk
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Optional: generated temporary files
+*.tmp
+*.bak
+
+# Keep curated mod list docs
+!mods/mods_list.txt
