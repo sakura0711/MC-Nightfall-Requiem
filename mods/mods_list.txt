@@ -81,3 +81,13 @@
 - TaCZ [槍械 · 魔改 API] taczjs-forge-1.4.2+mc1.20.1 v0.0.11
 - TaCZ [槍械] gundb-2.1.0-all v0.0.12
 - TaCZ [槍械] tacz-1.20.1-1.1.8-release v0.0.13
+
+==================== [2026-05-20] ====================
+- [API 前置] irons_lib-1.20.1-1.0.2 v0.0.21
+- [API 前置] Zeta-1.0-31 v0.0.22
+- [iron 鐵魔法 · 魔改] irons_spells_js-1.20.1-6.5-3.14-r2-release v0.0.23
+- [iron 鐵魔法] irons_spellbooks-1.20.1-3.15.6 v0.0.24
+- [冰山] Iceberg v0.0.25
+- [物品-結構優化] Quark-4.0-462 v0.0.26
+- [玩家動作效果] player-animation-lib-forge-1.0.2-rc1+1.20 v0.0.27
+- 結構 [主世界地形生成優化] Terralith_1.20.x_v2.5.4 v0.0.28
