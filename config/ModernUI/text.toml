@@ -37,7 +37,7 @@
 	#But text rendering can be compatible with OptiFine Shaders and Iris Shaders.
 	#This does not affect text rendering in GUI.
 	#This option only applies to TrueType fonts.
-	useTextShadersInWorld = true
+	useTextShadersInWorld = false
 	#For "minecraft:default" font, should we keep some glyph providers of them?
 	#Ignore All: Only use Modern UI typeface list.
 	#Keep ASCII: Include minecraft:font/ascii.png, minecraft:font/accented.png, minecraft:font/nonlatin_european.png
@@ -46,7 +46,7 @@
 	#Only Include: Only include providers that specified by defaultFontRuleSet.
 	#Only Exclude: Only exclude providers that specified by defaultFontRuleSet.
 	#Allowed Values: IGNORE_ALL, KEEP_ASCII, KEEP_OTHER, KEEP_ALL, ONLY_INCLUDE, ONLY_EXCLUDE
-	defaultFontBehavior = "ONLY_EXCLUDE"
+	defaultFontBehavior = "KEEP_ASCII"
 	#Used when defaultFontBehavior is either ONLY_INCLUDE or ONLY_EXCLUDE.
 	#This specifies a set of regular expressions to match the glyph provider name.
 	#For bitmap providers, this is the texture path without 'textures/'.

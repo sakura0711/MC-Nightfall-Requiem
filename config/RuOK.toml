@@ -1,6 +1,6 @@
 MaxEntityEntities = 128
 qualityModes = "NORMAL"
-RenderWeather = "NORMAL"
+RenderWeather = "LOW"
 FastItemRender = true
 RenderDisplayItem = false
 blackListedEntities = []
@@ -8,8 +8,8 @@ whiteListedEntities = []
 BlackTagListEntity = []
 WhiteTagListEntity = []
 isAlwaysShowItemCount = true
-startTime = 66.975
-Hud = false
+startTime = 66.244
+Hud = true
 HudRXTX = false
 HudFPS = false
 HudCPU = false
@@ -19,11 +19,11 @@ HudPlayerPos = false
 HudServer = false
 HudCameraTarget = false
 Mood = false
-MaxParticleDistance = 128
+MaxParticleDistance = 256
 WhiteListedParticle = []
 BlackListedParticle = []
 GuiEasyRamMode = true
-GuiDisplayRamUsage = false
+GuiDisplayRamUsage = true
 UseAui = false
 TextBackground = false
 TextureAnimatedSprites = true
@@ -41,10 +41,10 @@ DynamicEntityBudget = true
 BlackBlockEntities = []
 WhiteBlockEntities = []
 MaxBlockEntityCount = 64
-BlockEntityDistance = 256
+BlockEntityDistance = 128
 onCull = true
 VisibleCulling = true
-EntityRenderPerformance = true
+EntityRenderPerformance = false
 CullMode = "COMPATIBILITY"
 ParticleFastCollision = false
 CullBlockEntity = true
@@ -59,8 +59,8 @@ enabled = false
 
 [[HudTextConfig]]
 key = "ruok.options.hud.system.info"
-x = 4
-y = 17
+x = 511
+y = 1
 enabled = true
 
 [[HudTextConfig]]
