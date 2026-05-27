@@ -1,0 +1,11 @@
+
+["extradash Common Config"]
+	#How many ticks the player is invincible for after dodging
+	"Invincibility Ticks" = 10
+	#How far the player moves when dodging
+	"Dodge Strength" = 0.25
+	#How high the player moves when dodging
+	"Dodge Height" = 0.2
+	#Whether the player can dodge in mid-air
+	"Dodge Whilst Airborne" = true
+

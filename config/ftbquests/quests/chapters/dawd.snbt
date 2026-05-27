@@ -4,6 +4,14 @@
 	filename: "dawd"
 	group: ""
 	id: "3BD5E1C55CB0E7BF"
+	images: [{
+		height: 1.0d
+		image: "emxarms:textures/ammo/slot/339x57x.png"
+		rotation: 0.0d
+		width: 1.0d
+		x: -2.5d
+		y: -3.5d
+	}]
 	order_index: 0
 	quest_links: [ ]
 	quests: [{

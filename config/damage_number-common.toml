@@ -6,7 +6,7 @@ no_shake = false
 clear_time = 3000
 
 [number]
-	x = -200
+	x = 200
 	y = 100
 	#Range: 0.0 ~ 10.0
 	scale = 2.5
@@ -40,7 +40,7 @@ clear_time = 3000
 	#Range: 0.0 ~ 10.0
 	scale = 0.8
 	max_size = 100
-	show = true
+	show = false
 	#Color the damage number by damage type. Configure in damage_number_type.toml
 	color_type = true
 	#How long will number in list disappears

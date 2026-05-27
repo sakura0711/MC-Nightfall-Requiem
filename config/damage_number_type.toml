@@ -101,7 +101,7 @@
 
 	[tag."tacz:bullets"]
 		#Color of the damage number. [NO-VALUE] to use default color.
-		color = "[NO-VALUE]"
+		color = "#ffa39e"
 		priority = 0
 
 		[tag."tacz:bullets".icon]

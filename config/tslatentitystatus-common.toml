@@ -15,19 +15,19 @@
 	hudRenderPosition = "TOP_LEFT"
 	#Manually adjust the left-offset rendering position of the TES HUD
 	#Range: -100000 ~ 100000
-	hudPositionLeftAdjust = 0
+	hudPositionLeftAdjust = 10
 	#Manually adjust the top-offset rendering position of the TES HUD
 	#Range: -100000 ~ 100000
-	hudPositionTopAdjust = 0
+	hudPositionTopAdjust = 10
 	#How close (in blocks) the player has to be to render a HUD for an entity under the crosshairs
 	#Larger values may cost more performance
 	#Range: 4.0 ~ 256.0
 	hudTargetDistance = 64.0
 	#How long (in ticks) after looking away from an entity before its HUD should stop rendering
 	#Range: > 0
-	hudTargetGracePeriod = 10
+	hudTargetGracePeriod = 5
 	#Whether the TES HUD should render the entity's image
-	hudEntityRender = true
+	hudEntityRender = false
 	#Select the health render type for the TES HUD
 	#Options:
 	#NUMERIC - Use numeric values for health only
@@ -137,7 +137,7 @@
 	tesParticlesEnabled = true
 	#What style TES particles' font should render in
 	#Allowed Values: NORMAL, DROP_SHADOW, GLOWING, OUTLINED
-	particleFontStyle = "OUTLINED"
+	particleFontStyle = "NORMAL"
 	#How long (in ticks) TES particles should display for
 	#Range: 5 ~ 200
 	defaultParticleLifespan = 60
